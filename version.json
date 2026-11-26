@@ -1,1 +1,7 @@
-{"versionCode": 2, "versionName": "0.2.0", "url": "https://github.com/huguesblabla-ui/panier-apk/releases/download/v0.2.0/panier-0.2.0-debug.apk", "sha256": "028b0b67418e272df6559f40371b7a82acfd455dbac09fff775572dc6496a4d7", "notes": "Annonce des nouvelles versions dans Réglages, recettes et corrections."}
+{
+  "versionCode": 3,
+  "versionName": "0.2.1",
+  "url": "https://github.com/huguesblabla-ui/panier-apk/releases/download/v0.2.1/panier-0.2.1.apk",
+  "sha256": "dda91950804240c7961be3f24550efa843a6afba2de3ef2e094416c47e0980ff",
+  "notes": "Version optimisée (release) : appli plus légère et plus rapide, corrections de synchro et de partage."
+}
